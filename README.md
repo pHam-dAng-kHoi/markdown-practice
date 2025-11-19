@@ -3,12 +3,15 @@
 - Stranger things
 - Interstellar
 - Avenger
+
 *Well, here is comparison of my movies' favor*
-| Movies | Favor levels (5 is the most favorable) |
-| --------------- | --------------- |
-| Stranger things | 5 |
-| Interstellar | 4 |
-| Avenger | 2 |
+
+| Order | Name            | Favor levels      |
+|-------|-----------------|-------------------|
+|   1   | Stranger things | 5                 |
+|   2   | Interstellar    | 4                 |
+|   3   | Avenger         | 3                 |
+
 
 ## Why it is my favorite hobby ?
 *It helps me unwind after studying*
